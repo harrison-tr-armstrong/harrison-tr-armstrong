@@ -8,7 +8,7 @@ I've completed the **IBM Generative AI Engineering Professional Certificate** an
 I believe the best way to learn engineering is to build things, understand how they work, and improve them through testing and iteration.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harrison-armstrong-85b43a326/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto: harrison.tr.armstrong@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harrsion.tr.armstrong@gmail.com)
 
 ---
 
