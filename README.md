@@ -22,6 +22,7 @@ I believe the best way to learn engineering is to build things, understand how t
 - **Long-term Direction:** AI-powered systems, intelligent automation, and applications that connect models with real-world workflows.
 
 ## Tech Stack
+**Will update overtime**
 
 **Languages**
 
