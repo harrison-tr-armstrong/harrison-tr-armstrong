@@ -49,7 +49,7 @@ I believe the best way to learn engineering is to build things, understand how t
 
 ## Featured Project
 
-### [NEO Asteroid Detection](YOUR_NEO_PROJECT_REPO_URL)
+### [NEO Asteroid Detection](https://github.com/harrison-tr-armstrong/neo-asteroid-detection)
 
 **Computer vision for astronomical image analysis.**
 
@@ -70,7 +70,7 @@ The aim is to develop a reliable, modular pipeline that progresses from raw imag
 
 **Planned next steps:** Model integration, evaluation, inference, and an interactive detection interface.
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harrison-tr-armstrong/neo-asteroid-detection.git)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harrison-tr-armstrong/neo-asteroid-detection)
 
 ---
 
