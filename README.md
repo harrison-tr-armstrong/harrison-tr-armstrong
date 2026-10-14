@@ -82,16 +82,4 @@ The aim is to develop a reliable, modular pipeline that progresses from raw imag
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=harrison-tr-armstrong&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrison-tr-armstrong&layout=compact&theme=github_dark&hide_border=true" alt="Most-used languages" />
-
-</div>
-
----
-
 *Learning by building. Focused on practical AI and intelligent systems.*
